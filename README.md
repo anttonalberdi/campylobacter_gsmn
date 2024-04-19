@@ -1,2 +1,2 @@
-# campylobacter_gsmn
-Genome-scale metabolic network analyses of Campylobacter and associated bacteria 
+# Campylobacter GSMN
+Genome-scale metabolic network (GSMN) analyses of Campylobacter and associated bacteria 
